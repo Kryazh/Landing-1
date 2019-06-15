@@ -1,0 +1,23 @@
+.background-head{
+    background-image: url(/img/background-head.png);
+}
+.background-city{
+    background-image: url(/img/city.png)
+}
+.background-team{
+    background-image: url(/img/background-team.png); 
+}
+.background-footer{
+    background-image: url(/img/backgtound-footer.png);
+}
+.he{
+    height: 300px;
+}
+#contentHeader{
+    margin-top: 15%;
+    padding-bottom: 15%;
+}
+#contentPlay{
+    padding-top: 5%;
+    padding-bottom: 3%;
+}
